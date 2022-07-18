@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D3Lab</title>
-    <link>https://TED3Lab-zh.github.io/</link>
-      <atom:link href="https://TED3Lab-zh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/</link>
+      <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>D3Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://TED3Lab-zh.github.io/media/icon_hu7c8f66c823bc2a62619a39dc1829654e_14272_512x512_fill_lanczos_center_3.png</url>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
       <title>D3Lab</title>
-      <link>https://TED3Lab-zh.github.io/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/</link>
     </image>
     
     <item>
       <title>奥利与奥斯卡</title>
-      <link>https://TED3Lab-zh.github.io/talk/example2/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/talk/example2/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/talk/example2/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/talk/example2/</guid>
       <description>&lt;p&gt;奥利与奥斯卡的日常&lt;/p&gt;
 
 
@@ -34,7 +34,7 @@
 
 
 &lt;video controls  &gt;
-  &lt;source src=&#34;https://TED3Lab-zh.github.io/talk/example2/my_video.MP4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/talk/example2/my_video.MP4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;p&gt;awslawslawslawslawsl
 awslawslawslawslawsl
@@ -44,9 +44,9 @@ awslawslawslawslawsl
     
     <item>
       <title>拍摄小人国</title>
-      <link>https://TED3Lab-zh.github.io/talk/example/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/talk/example/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/talk/example/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/talk/example/</guid>
       <description>&lt;p&gt;移轴镜头作为一种特殊的拍摄手法，经常出现在电影中&lt;/p&gt;
 &lt;p&gt;移轴摄影会拍出小人国的效果的原因：在正常情况下，景深同对焦点距离成正比，同镜头焦距长度成反比，人眼也符合这个规律，大脑在长期的训练下也默认了这个规则。移轴镜头可以改变光路，使得焦平面和感光平面不平行，只有两个平面相交的那条线附近的景物清晰，造成特殊的“浅景深”。那种看起来像模型的移轴照片多是广角远距离拍摄，在大脑的规则中，这种距离的广角视角下不可能出现浅景深，所以会产生错觉，以为这是近距离摄影。在近距离景物又比较小的话，就像是模型了。&lt;/p&gt;
 &lt;p&gt;视频转载于无限飓风&lt;/p&gt;</description>
@@ -54,9 +54,9 @@ awslawslawslawslawsl
     
     <item>
       <title>Example Event</title>
-      <link>https://TED3Lab-zh.github.io/event/example/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/event/example/</link>
       <pubDate>Fri, 24 Jun 2022 13:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/event/example/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/event/example/</guid>
       <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
@@ -69,18 +69,18 @@ awslawslawslawslawsl
     
     <item>
       <title>In search of an ending</title>
-      <link>https://TED3Lab-zh.github.io/post/20-12-02-icml-best-paper/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-02-icml-best-paper/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/post/20-12-02-icml-best-paper/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Foreign private-equity barons circle a fading jewel of corporate Japan&lt;/p&gt;
 &lt;p&gt;Toshiba was once synonymous with Japan’s industrial might. Of late the conglomerate, which has made everything from memory cards to nuclear reactors, has become a byword for drama. Japan’s business press writes of“Toshiba Theatre”, which began with accounting fraud a decade ago and has continued to the present day in a series of “slapstick” struggles between management and shareholders. Toshiba’s share price has underperformed domestic and foreign rivals, as well as the broaderJapanese stockmarket (see chart).The latest plot twist comes amid talk of a buy­out led by Bain Capital, an American private­equity group. This raised hopes among investors for some sort of resolution to the saga. Toshiba’s market value has risen by a quarterin the past month.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Seeing and believing</title>
-      <link>https://TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Tech firms are betting that “extended reality” glasses could be the next big product—and perhaps the next big platform&lt;/p&gt;
 &lt;p&gt;With eyes like saucers, nine-year-old Ralph Miles slowly removes his Quest 2 headset. “It was like being in another galaxy!” he exclaims. He has just spent ten minutes blasting alien robotswith deafening laser cannons—all the while seated silently in the home-electronics section of a London department store.Sales assistants bustle around, advertising
 the gear to take home today. “That would be sick!” enthuses Ralph. “Don’t get him started,” warns his dad.&lt;/p&gt;
@@ -89,9 +89,9 @@ the gear to take home today. “That would be sick!” enthuses Ralph. “Don’
     
     <item>
       <title>Seeing and believing</title>
-      <link>https://TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize2/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize2/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize2/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize2/</guid>
       <description>&lt;p&gt;Tech firms are betting that “extended reality” glasses could be the next big product—and perhaps the next big platform&lt;/p&gt;
 &lt;p&gt;With eyes like saucers, nine-year-old Ralph Miles slowly removes his Quest 2 headset. “It was like being in another galaxy!” he exclaims. He has just spent ten minutes blasting alien robotswith deafening laser cannons—all the while seated silently in the home-electronics section of a London department store.Sales assistants bustle around, advertising
 the gear to take home today. “That would be sick!” enthuses Ralph. “Don’t get him started,” warns his dad.&lt;/p&gt;
@@ -100,9 +100,9 @@ the gear to take home today. “That would be sick!” enthuses Ralph. “Don’
     
     <item>
       <title>Seeing and believing</title>
-      <link>https://TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize3/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize3/</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize3/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/20-12-01-wowchemy-prize3/</guid>
       <description>&lt;p&gt;Tech firms are betting that “extended reality” glasses could be the next big product—and perhaps the next big platform&lt;/p&gt;
 &lt;p&gt;With eyes like saucers, nine-year-old Ralph Miles slowly removes his Quest 2 headset. “It was like being in another galaxy!” he exclaims. He has just spent ten minutes blasting alien robotswith deafening laser cannons—all the while seated silently in the home-electronics section of a London department store.Sales assistants bustle around, advertising
 the gear to take home today. “That would be sick!” enthuses Ralph. “Don’t get him started,” warns his dad.&lt;/p&gt;
@@ -111,9 +111,9 @@ the gear to take home today. “That would be sick!” enthuses Ralph. “Don’
     
     <item>
       <title>An example conference paper</title>
-      <link>https://TED3Lab-zh.github.io/publication/conference-paper/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/publication/conference-paper/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -125,9 +125,9 @@ the gear to take home today. “That would be sick!” enthuses Ralph. “Don’
     
     <item>
       <title>An example journal article</title>
-      <link>https://TED3Lab-zh.github.io/publication/journal-article/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/publication/journal-article/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -139,42 +139,42 @@ the gear to take home today. “That would be sick!” enthuses Ralph. “Don’
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://TED3Lab-zh.github.io/publication/preprint/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/preprint/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/publication/preprint/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://TED3Lab-zh.github.io/admin/config.yml</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/admin/config.yml</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://TED3Lab-zh.github.io/contact/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/contact/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://TED3Lab-zh.github.io/people/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/people/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>https://TED3Lab-zh.github.io/tour/</link>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://TED3Lab-zh.github.io/tour/</guid>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/tour/</guid>
       <description></description>
     </item>
     
