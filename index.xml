@@ -5,7 +5,7 @@
     <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/</link>
       <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
       <title>D3Lab</title>
@@ -13,20 +13,89 @@
     </image>
     
     <item>
+      <title>项目例子</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example1/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example1/</guid>
+      <description>&lt;p&gt;项目极简介绍（50字左右）&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;移轴摄影会拍出小人国的效果的原因：在正常情况下，景深同对焦点距离成正比，同镜头焦距长度成反比，人眼也符合这个规律，大脑在长期的训练下也默认了这个规则。移轴镜头可以改变光路，使得焦平面和感光平面不平行，只有两个平面相交的那条线附近的景物清晰，造成特殊的“浅景深”。那种看起来像模型的移轴照片多是广角远距离拍摄，在大脑的规则中，这种距离的广角视角下不可能出现浅景深，所以会产生错觉，以为这是近距离摄影。在近距离景物又比较小的话，就像是模型了。&lt;/p&gt;
+&lt;p&gt;视频转载于无限飓风&lt;/p&gt;
+&lt;h2 id=&#34;项目应用&#34;&gt;项目应用&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://www.bilibili.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp 400w,
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_e474625100140e3d4d504f0bb0aad18d.webp 760w,
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>项目例子2</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example2/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example2/</guid>
+      <description>&lt;p&gt;项目极简介绍（50字左右）&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;移轴摄影会拍出小人国的效果的原因：在正常情况下，景深同对焦点距离成正比，同镜头焦距长度成反比，人眼也符合这个规律，大脑在长期的训练下也默认了这个规则。移轴镜头可以改变光路，使得焦平面和感光平面不平行，只有两个平面相交的那条线附近的景物清晰，造成特殊的“浅景深”。那种看起来像模型的移轴照片多是广角远距离拍摄，在大脑的规则中，这种距离的广角视角下不可能出现浅景深，所以会产生错觉，以为这是近距离摄影。在近距离景物又比较小的话，就像是模型了。&lt;/p&gt;
+&lt;p&gt;视频转载于无限飓风&lt;/p&gt;
+&lt;h2 id=&#34;项目应用&#34;&gt;项目应用&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://www.bilibili.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp 400w,
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_e474625100140e3d4d504f0bb0aad18d.webp 760w,
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
       <title>奥利与奥斯卡</title>
       <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/talk/example2/</link>
       <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/talk/example2/</guid>
       <description>&lt;p&gt;奥利与奥斯卡的日常&lt;/p&gt;
-
-
-
-
-
-
-
-
-
   
 
 
@@ -38,8 +107,7 @@
 &lt;/video&gt;
 &lt;p&gt;awslawslawslawslawsl
 awslawslawslawslawsl
-视频转载于奥利与奥斯卡&lt;/p&gt;
-</description>
+视频转载于奥利与奥斯卡&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,17 +121,64 @@ awslawslawslawslawsl
     </item>
     
     <item>
-      <title>Example Event</title>
+      <title>项目例子3</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example3/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example3/</guid>
+      <description>&lt;p&gt;项目极简介绍（50字左右）&lt;/p&gt;
+&lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
+&lt;p&gt;移轴摄影会拍出小人国的效果的原因：在正常情况下，景深同对焦点距离成正比，同镜头焦距长度成反比，人眼也符合这个规律，大脑在长期的训练下也默认了这个规则。移轴镜头可以改变光路，使得焦平面和感光平面不平行，只有两个平面相交的那条线附近的景物清晰，造成特殊的“浅景深”。那种看起来像模型的移轴照片多是广角远距离拍摄，在大脑的规则中，这种距离的广角视角下不可能出现浅景深，所以会产生错觉，以为这是近距离摄影。在近距离景物又比较小的话，就像是模型了。
+视频转载于无限飓风&lt;/p&gt;
+&lt;h2 id=&#34;项目应用&#34;&gt;项目应用&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://www.bilibili.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp 400w,
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_e474625100140e3d4d504f0bb0aad18d.webp 760w,
+               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>浙江大学夏令营</title>
       <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/event/example/</link>
-      <pubDate>Fri, 24 Jun 2022 13:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2022 13:00:00 +0000</pubDate>
       <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+      <description>&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+&lt;p&gt;有意保研的同学欢迎联系浙江大学 智能设计实验室 &lt;a href=&#34;https://person.zju.edu.cn/chenlq&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;陈柳青老师&lt;/em&gt;&lt;/a&gt;参加暑期实习，研究方向包括智能UI、创意设计、VR/AR/XR、交互设计与用户体验等，可在阿里巴巴兼职实习、去往帝国理工交流访学，招收对象为计算机类、设计类相关专业学生，有意向者请投简历联系陈柳青老师 chenlq@zju.edu.cn&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;直博生可以直接报学院的夏令营计划，截止7.1； 硕士直接参加实验室的实习&lt;/li&gt;
+&lt;li&gt;夏令营与实习的对接与进度检查:
+&lt;ul&gt;
+&lt;li&gt;进度跟进&lt;/li&gt;
+&lt;li&gt;能力考查&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -156,25 +271,9 @@ the gear to take home today. “That would be sick!” enthuses Ralph. “Don’
     
     <item>
       <title></title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tour</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tour/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/tour/</guid>
       <description></description>
     </item>
     

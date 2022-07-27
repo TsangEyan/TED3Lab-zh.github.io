@@ -2,8 +2,8 @@
   "name": "D3Lab",
   "short_name": "D3Lab",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "rgb(251, 191, 183)",
+  "background_color": "rgb(251, 191, 183)",
   "icons": [{
     "src": "/TED3Lab-zh.github.io/media/icon_hu7c8f66c823bc2a62619a39dc1829654e_14272_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",

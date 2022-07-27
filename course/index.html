@@ -47,9 +47,17 @@
 
   
   
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
 
   
   
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
   
 
   
@@ -74,7 +82,7 @@
   
   
   
-    <meta name="theme-color" content="#1565c0" />
+    <meta name="theme-color" content="rgb(251, 191, 183)" />
   
 
   
@@ -98,8 +106,12 @@
     
       
       
+        
+      
     
     
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" media="print" onload="this.media='all'">
     
 
     
@@ -226,7 +238,7 @@
   
   
   
-  <link rel="stylesheet" href="/TED3Lab-zh.github.io/css/wowchemy.22af939c069086ee2ec603492695a971.css" />
+  <link rel="stylesheet" href="/TED3Lab-zh.github.io/css/wowchemy.928ac3a64c217b2c6b699b18636fca4d.css" />
 
   
   
@@ -302,13 +314,11 @@
   
   <meta property="og:site_name" content="D3Lab" />
   <meta property="og:url" content="https://tsangeyan.github.io/TED3Lab-zh.github.io/course/" />
-  <meta property="og:title" content="Courses | D3Lab" />
+  <meta property="og:title" content="课程 | D3Lab" />
   <meta property="og:description" content="A highly-customizable Hugo research group theme powered by Wowchemy website builder." /><meta property="og:image" content="https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png" />
     <meta property="twitter:image" content="https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-06-24T00:00:00&#43;00:00" />
-    
   
 
   
@@ -318,7 +328,7 @@
   
 
 
-  <title>Courses | D3Lab</title>
+  <title>课程 | D3Lab</title>
 
   
   
@@ -349,7 +359,7 @@
   
   
   
-  <script src="/TED3Lab-zh.github.io/js/wowchemy-init.min.14a0ed61c6dbd594b9c75193b25be179.js"></script>
+  <script src="/TED3Lab-zh.github.io/js/wowchemy-init.min.4a706d97b61cd78b06d77fb86348c37e.js"></script>
 
   
 
@@ -526,7 +536,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/TED3Lab-zh.github.io/talk"><span>Talks</span></a>
+            <a class="nav-link " href="/TED3Lab-zh.github.io/talk"><span>报告</span></a>
           </li>
 
           
@@ -586,7 +596,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/TED3Lab-zh.github.io/publication"><span>出版</span></a>
+            <a class="nav-link " href="/TED3Lab-zh.github.io/publication"><span>论文</span></a>
           </li>
 
           
@@ -622,6 +632,38 @@
           
           
 
+          
+
+          
+          
+          
+            
+              
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="https://TsangEyan.github.io/" target="_blank" rel="noopener"><span>英文网</span></a>
+          </li>
+
+          
+          
+
         
 
           
@@ -642,6 +684,23 @@
 
         
         
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
         
 
         
@@ -682,7 +741,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1>Courses</h1>
+  <h1>课程</h1>
 
   
 
@@ -693,175 +752,266 @@
 
 <div class="universal-wrapper">
   
-    <div class="article-style"><p>Explore our courses below and expand your knowledge!</p>
-</div>
-  
+    <div class="article-style"><details class="toc-inpage d-print-none  " open>
+  <summary class="font-weight-bold">Table of Contents</summary>
+  <nav id="TableOfContents">
+  <ul>
+    <li><a href="#本科生课程">本科生课程</a></li>
+    <li><a href="#课程1">课程1</a></li>
+    <li><a href="#课程2">课程2</a></li>
+    <li><a href="#研究生课程">研究生课程</a></li>
+    <li><a href="#课程1-1">课程1</a></li>
+    <li><a href="#课程2-1">课程2</a></li>
+  </ul>
+</nav>
+</details>
 
+<h2 id="本科生课程">本科生课程</h2>
+<h2 id="课程1">课程1</h2>
+<p>【课程介绍】</p>
+<p>优秀学生作品
+
+
+
+
+
+
+
+
+
+
+
+<div class="gallery">
+
+  
   
   
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/TED3Lab-zh.github.io/course/graduate-courses/" >Graduate Courses</a>
-    </div>
-
     
-    <a href="/TED3Lab-zh.github.io/course/graduate-courses/"  class="summary-link">
-      <div class="article-style">
-        简介
-      </div>
-    </a>
     
-
-    <div class="stream-meta article-metadata">
-
-      
-
+    
+    
       
         
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
       
     
-    Jun 24, 2022
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item view-compact">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/TED3Lab-zh.github.io/course/undergraduate-courses/" >Undergraduate Courses</a>
-    </div>
-
-    
-    <a href="/TED3Lab-zh.github.io/course/undergraduate-courses/"  class="summary-link">
-      <div class="article-style">
-        简介
-      </div>
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/111.jpg" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/111_hu1fa7727cbe88b9d8627ebf096ec9cc84_1874349_420x0_resize_q75_h2_lanczos.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="260">
     </a>
+  
     
-
-    <div class="stream-meta article-metadata">
-
-      
-
+    
+    
+    
+    
       
         
-
-
-<div class="article-metadata">
-
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/222.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/222_hucbeb18e0b38452b496ae725208e22d01_107798_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="293">
+    </a>
   
-  
-
-  
-  <span class="article-date">
+    
+    
+    
     
     
       
-    
-    Jun 24, 2022
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
+        
       
-    </div>
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/project-example2.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="138">
+    </a>
+  
 
-    
+</div></p>
+<h2 id="课程2">课程2</h2>
+<p>【课程介绍】</p>
+<p>优秀学生作品
 
-  </div>
-  <div class="ml-3">
+
+
+
+
+
+
+
+
+
+
+<div class="gallery">
+
+  
+  
+  
     
     
-  </div>
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/111.jpg" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/111_hu1fa7727cbe88b9d8627ebf096ec9cc84_1874349_420x0_resize_q75_h2_lanczos.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="260">
+    </a>
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/222.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/222_hucbeb18e0b38452b496ae725208e22d01_107798_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="293">
+    </a>
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/project-example2.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="138">
+    </a>
+  
+
+</div></p>
+<h2 id="研究生课程">研究生课程</h2>
+<h2 id="课程1-1">课程1</h2>
+<p>【课程介绍】</p>
+<p>优秀学生作品
+
+
+
+
+
+
+
+
+
+
+
+<div class="gallery">
+
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/111.jpg" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/111_hu1fa7727cbe88b9d8627ebf096ec9cc84_1874349_420x0_resize_q75_h2_lanczos.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="260">
+    </a>
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/222.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/222_hucbeb18e0b38452b496ae725208e22d01_107798_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="293">
+    </a>
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/project-example2.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="138">
+    </a>
+  
+
+</div></p>
+<h2 id="课程2-1">课程2</h2>
+<p>【课程介绍】</p>
+<p>优秀学生作品
+
+
+
+
+
+
+
+
+
+
+
+<div class="gallery">
+
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/111.jpg" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/111_hu1fa7727cbe88b9d8627ebf096ec9cc84_1874349_420x0_resize_q75_h2_lanczos.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="260">
+    </a>
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/222.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/222_hucbeb18e0b38452b496ae725208e22d01_107798_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="293">
+    </a>
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+    <a data-fancybox="gallery-111" href="/TED3Lab-zh.github.io/media/albums/111/project-example2.png" data-caption="&lt;a href=&#34;../courses-project/course11.pdf&#34;&gt;&lt;strong&gt;See more&lt;/strong&gt;&lt;/a&gt;">
+      <img src="/TED3Lab-zh.github.io/media/albums/111/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_420x0_resize_q75_h2_lanczos_3.webp" loading="lazy" alt="[**See more**](../courses-project/course11.pdf)" width="420" height="138">
+    </a>
+  
+
+</div></p>
 </div>
+  
 
+  
   
 
   
@@ -964,6 +1114,8 @@
   
 
   
+  
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js" integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin="anonymous"></script>
   
 
   
