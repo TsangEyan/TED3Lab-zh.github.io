@@ -5,7 +5,7 @@
     <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/xr/</link>
       <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/xr/index.xml" rel="self" type="application/rss+xml" />
     <description>XR</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
       <title>XR</title>
@@ -13,15 +13,13 @@
     </image>
     
     <item>
-      <title>项目例子</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example1/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/example1/</guid>
-      <description>&lt;p&gt;项目极简介绍（50字左右）&lt;/p&gt;
+      <title>电商AR新交互新体验探索</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_4/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/project/project_4/</guid>
+      <description>&lt;p&gt;augmented reality, virtual reality, online shopping, comparison of technologies, 3D / Multimodal user interface&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
-&lt;p&gt;移轴摄影会拍出小人国的效果的原因：在正常情况下，景深同对焦点距离成正比，同镜头焦距长度成反比，人眼也符合这个规律，大脑在长期的训练下也默认了这个规则。移轴镜头可以改变光路，使得焦平面和感光平面不平行，只有两个平面相交的那条线附近的景物清晰，造成特殊的“浅景深”。那种看起来像模型的移轴照片多是广角远距离拍摄，在大脑的规则中，这种距离的广角视角下不可能出现浅景深，所以会产生错觉，以为这是近距离摄影。在近距离景物又比较小的话，就像是模型了。&lt;/p&gt;
-&lt;p&gt;视频转载于无限飓风&lt;/p&gt;
-&lt;h2 id=&#34;项目应用&#34;&gt;项目应用&lt;/h2&gt;
+&lt;p&gt;随着元宇宙概念的持续升温和社交、生产协作、购物等具体应用场景的逐步构建，各类产业对于扩展现实系列技术的体验设计规范、针对具体场景的技术引入和体验优化等方面的需求正在扩大。另一方面，学界与业界对于虚拟现实、增强现实、混合现实等各类主流元宇宙用户界面技术的基本定义、技术特征、对用户体验的具体影响的共识尚未建立；高维度、多感官通道的扩展现实体验空间的设计空间与设计规范有待拓展；适合扩展现实体验空间的具体设计策略与呈现内容的典型形式、方式有待探索。本项目依托浙江大学与阿里巴巴前端设计委员会合作项目开展，通过扩展现实技术创新电商平台的营销导购方式，实现基于多种扩展现实技术的场景化购物方案和原型设计。项目下辖多个研究小组，在增强现实与虚拟现实技术的用户体验差异、扩展现实场景下的多模态信息呈现技术、面向特殊使用场景的下一代扩展现实技术技术特征等方面做出有力的探索，并结合场景特点提出以场景作为商品配置的货架、以互动塑造商品认知过程、以三维多感官界面重塑界面信息架构的研究思路。相关研究成果可应用于虚拟购物平台三维化营销场景的设计实践，或为一般扩展现实应用的信息与交互设计提供指导。该团队目前参与元宇宙相关主题《信息与交互设计》课程建设及多个本科生科研训练项目过程指导。&lt;/p&gt;
 
 
 
@@ -40,15 +38,51 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;a href=&#34;https://www.bilibili.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp 400w,
-               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_e474625100140e3d4d504f0bb0aad18d.webp 760w,
-               /TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project-example2_hu86461e76de838cf4b9c7f3e76a894b06_3743140_2bd6f1d0bb4d068a81c3218e36233825.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/project_4_huc72469f99a3f3f8541383a1eb9361199_766803_df309c55cf4e9b685b47ad60ad2adfcc.webp 400w,
+               /TED3Lab-zh.github.io/media/project_4_huc72469f99a3f3f8541383a1eb9361199_766803_efdf3b692817c68c53bca692f1ead846.webp 760w,
+               /TED3Lab-zh.github.io/media/project_4_huc72469f99a3f3f8541383a1eb9361199_766803_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/project_4_huc72469f99a3f3f8541383a1eb9361199_766803_df309c55cf4e9b685b47ad60ad2adfcc.webp&#34;
                width=&#34;760&#34;
-               height=&#34;250&#34;
-               loading=&#34;lazy&#34; /&gt;&lt;/a&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;</description>
+               height=&#34;374&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-project_4&#34; href=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/albums/project_4/1.png&#34; &gt;
+      &lt;img src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/albums/project_4/1_hu90bce225f99162c83f1cec892628d724_418761_520x0_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;1.png&#34; width=&#34;520&#34; height=&#34;321&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-project_4&#34; href=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/albums/project_4/4.png&#34; &gt;
+      &lt;img src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/albums/project_4/4_hu3168de5f82c083371df3b72e366723b7_9510081_520x0_resize_q75_h2_lanczos_3.webp&#34; loading=&#34;lazy&#34; alt=&#34;4.png&#34; width=&#34;520&#34; height=&#34;520&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;</description>
     </item>
     
   </channel>
