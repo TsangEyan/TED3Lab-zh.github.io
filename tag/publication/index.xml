@@ -5,7 +5,7 @@
     <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/publication/</link>
       <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
       <title>Publication</title>
@@ -13,40 +13,126 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>WikiLink: An Encyclopedia-Based Semantic Network for Design Creativity</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-2/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-2/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Browsing Behavioral Intent Prediction on Product Recommendation Pages of E-commerce Platform</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/preprint/</link>
+      <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Study of the Exploratory Creativity Performance Between Machine and Human Designers</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-5/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-5/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>A study of the methods for evaluating machine generated images containing combinational creativity</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-1/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-1/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Layout Generation for Various Scenarios in Mobile Shopping Applications</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>UI Layers Merger: Merging UI layers via Visual Learning and Boundary Prior</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-1/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-1/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Creativity Diamond—A Framework to Aid Creativity</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-3/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-3/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
     </item>
     
   </channel>
