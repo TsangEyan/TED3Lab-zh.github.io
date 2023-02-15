@@ -5,7 +5,7 @@
     <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/</link>
       <atom:link href="https://tsangeyan.github.io/TED3Lab-zh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>D3Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu7c8f66c823bc2a62619a39dc1829654e_14272_300x300_fit_lanczos_3.png</url>
       <title>D3Lab</title>
@@ -297,6 +297,143 @@
       <description>&lt;p&gt;free-hand sketches, GAN, vectorization&lt;/p&gt;
 &lt;h2 id=&#34;项目简介&#34;&gt;项目简介&lt;/h2&gt;
 &lt;p&gt;手绘草图作为一种能够快速传递人们脑海中想法的工具, 在UI/UX设计领域中, 能够帮助设计师快速表达、交流他们的设计意图. 通常在UI图标设计的前期, 设计师们在白板上绘制低保真草图, 表达最终产品的设计原型. 然而, 在UI图标设计的实现阶段, 手绘草图仅仅扮演指导角色, 无法参与具体设计实现过程, 设计师需要借助额外的软件按照草图表达的设计意图, 从零开始制作UI设计原型. 前人的文献中尚未研究基于手绘草图直接生成UI图标设计原型, 如何将UI图标手绘草图表达的设计意图转换为矢量的、可编辑的标准UI图标是本文的研究重点. 本文提出了一种方法, 尝试缩短草图表达与具体设计过程的差距, 即基于草图表达的设计意图, 生成矢量化可编辑的UI图标雏形, 这样设计师不必从头开始制作UI图标, 而是在已有的UI图标雏形上进行修改编辑, 这能够帮助提升UI设计师的设计效率.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>智能创意与元宇宙</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-01-03/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-01-03/</guid>
+      <description>&lt;p&gt;讲座主题：《智能创意与元宇宙》&lt;/p&gt;
+&lt;p&gt;主讲人：陈柳青&lt;/p&gt;
+&lt;p&gt;讲座时间：2022年11月9日&lt;/p&gt;
+&lt;p&gt;讲座地点：中国美术学院象山校区九号楼学术报告厅&lt;/p&gt;
+&lt;p&gt;主办单位：中国美术学院艺术管理与教育学院、美术教育研究所&lt;/p&gt;
+&lt;p&gt;总策划：李勇、戴文莲&lt;/p&gt;
+&lt;p&gt;执行团队：刘亚蒂、何亦扬、姜盼&lt;/p&gt;
+&lt;h2 id=&#34;讲座回顾&#34;&gt;讲座回顾&lt;/h2&gt;
+&lt;p&gt;随着AR/VR/XR、IoT、人工智能等技术的进步以及相关设备的不断更新，下一代互联网的新时代元宇宙离我们越来越近，创意设计不再只是依靠设计师的灵感，还可以由机器辅助激发创意、生成创意。2022年11月9日中国美术学院艺术管理与教育学院、美术教育研究所特邀陈柳青教授介绍基于大数据和人工智能的计算机辅助创意工具以及最新的创意生成技术的进展。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_39c6a0bd248bb354d9edbfcd7b8f39c8.webp 400w,
+               /TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_52e3ebb563c91585307334f27fea1d93.webp 760w,
+               /TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/23-01-03/1_hub878120b7a024d82704bad4a670ed337_66329_39c6a0bd248bb354d9edbfcd7b8f39c8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;553&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;讲座一开始，陈柳青教授详细地介绍了“基于数据驱动的设计创意”和“基于人工智能的设计创意”的研究课题。陈柳青教授展示了人工智能与人类设计产品的差异，介绍了几种设计创意引擎工具的优劣，并抛出了问题：机器能达到人类的创造水平吗？&lt;/p&gt;
+&lt;h3 id=&#34;设计创意引擎工具&#34;&gt;设计创意引擎工具&lt;/h3&gt;
+&lt;h4 id=&#34;1-b-link&#34;&gt;1. B-Link&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;建立了一个设计知识的大型数据库&lt;/li&gt;
+&lt;li&gt;300多万关键词，3100多万个词关系&lt;/li&gt;
+&lt;li&gt;提出三种关键的数据挖掘算法&lt;/li&gt;
+&lt;li&gt;网络型数据结构&lt;/li&gt;
+&lt;li&gt;网络型数据的可视化&lt;/li&gt;
+&lt;li&gt;集数据挖掘和可视化于一体的交互界面&lt;/li&gt;
+&lt;li&gt;高效、快速地产生设计创意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;2-wikilink&#34;&gt;2. WikiLink&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;基于维基百科的语义网络的建立&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;丰富的节点、融合两种关系的边&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“探索”和“路径寻找”功能的实现&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;不同场景的两种功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;3-asknaturenet&#34;&gt;3. askNatureNet&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;仿生设计（Bio-Inspired Design）&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;设计师可以从功能，行为，外观角度向大自然寻求灵感和创新&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;使用仿生数据库帮助设计师产生有创意的想法&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据库汇集了大量的仿生知识，可以提供给设计师用于浏览，发掘有效的设计信息如AskNature, BioTRIZ, DANE, IDEA-INSIPRE&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;缺乏结构化的信息&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;结构化的信息可以增强设计师构思技术解决方案的能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;搜索方式单调&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;现有的BID仅呈现直接相关仿生结果，缺乏发散知识&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;机器能达到人类的创造水平吗？对于这个问题的思考，我们不经想到近期的热门讨论话题：AI绘画是否会代替艺术家？陈柳青教授介绍到：现在, 扩散模型的生成能力远远超越GAN模型，能够高效合成视觉数据，成为了文本生成图像的主流模型，同时AI绘画在艺术创作方面也有惊人的效果。Disco diffusion是第一个基于 CLIP + Diffusion 模型的实用化 AI 绘画产品，然而无法刻画具体细节，达不到商业细节水准，而且耗费时间很久。随着技术的发展，这些缺点也逐渐被改进，如今stable diffusion是更强大的AI绘画模型，它不仅消耗的资源少，而且生成的效果令人惊艳。AI作画系统，它最大的优点是零门槛的交互和非常好的输出结果。当下国内百度公司提出ERNIE-ViLG模型后，越来越多在线AI作画系统被提出。那么AI的发展不仅仅给我们带来一些机遇，更多的可能是一种挑战，包括我们也在思考，如何合理利用这种科技以达到一种人与机器共创的模式。&lt;/p&gt;
+&lt;h3 id=&#34;ai的应用方向&#34;&gt;AI的应用方向&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;创意图像&lt;/li&gt;
+&lt;li&gt;图像修复与编辑&lt;/li&gt;
+&lt;li&gt;艺术创作&lt;/li&gt;
+&lt;li&gt;文本生成3D模型&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;接着，陈柳青教授带领学生一步一步地了解元宇宙是什么，有什么。
+元宇宙是整合多种新技术产生的下一代互联网应用和社会形态，它基于扩展现实技术和数字孪生实现时空拓展性，基于AI和物联网实现虚拟人、自然人和机器人的人机融生性， 基于区块链、Web3.0、数字藏品/NFT等实现经济增值性。在社交系统、生产系统、经济系统上虚实共生，每个用户可以进行世界编辑、内容生产和数字资产自所有。
+其中，陈柳青教授也详细地介绍了“元宇宙展览”，艺术与科技的结合打开了美教同学们的创作新思路，也引发美教同学们对当下展览如何更好得满足参观者的全新思考。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_3a8cd40ef27a3dc539b9b990511d046e.webp 400w,
+               /TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_21646b0c4a619b88797b97253a4a8dd9.webp 760w,
+               /TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://tsangeyan.github.io/TED3Lab-zh.github.io/TED3Lab-zh.github.io/media/post/23-01-03/2_hudecda168e7c52b5658357614f744fc29_707308_3a8cd40ef27a3dc539b9b990511d046e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;413&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;在第三部分，陈柳青教授以电商为例介绍了相关研究问题。&lt;/p&gt;
+&lt;p&gt;在元宇宙时代，我们的交互方式、用户体验、信息呈现都将发生改变，数字与物理空间相结合将形成新的营销与体验模式。因此我们需要充分发挥XR技术优势的全过程购物范式，融合AR/VR优势特征的XR体验框架，符合XR空间内用户认知的商品呈现形式，以此来提升用户对虚拟世界的兴趣、感知和过程沉浸，提供更丰富的商品信息和更生动的商品呈现。&lt;/p&gt;
+&lt;p&gt;模糊的学科与知识边界塑造了设计实践与思维的未知领域，陈柳青教授的探讨、阐述、研究就是在带领美院未来的先锋设计家们去探索这全新未知的领域！演讲结束后，同学们针对人类艺术创作和AI艺术创作之间的关系等问题与陈柳青教授展开进一步的讨论。陈柳青教授的精彩讲座分享为美术教育师生带来了新的跨学科视角，认识到艺术教育在未来社会构建中所具有独特的作用与意义。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/vT3D5VCHF6r6EqQN9uJ6Mw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;详情链接&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
