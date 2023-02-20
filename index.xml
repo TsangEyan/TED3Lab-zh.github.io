@@ -7,7 +7,7 @@
     <description>D3Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_huece4f96c0a585bf9cf8c19a4b4408ed3_411093_300x300_fit_lanczos_3.png</url>
+      <url>https://tsangeyan.github.io/TED3Lab-zh.github.io/media/logo_hu3947e177dc78f5c96cf9fe7e531440ae_426133_300x300_fit_lanczos_3.png</url>
       <title>D3Lab</title>
       <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/</link>
     </image>
@@ -304,7 +304,8 @@
       <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-02-10/</link>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-02-10/</guid>
-      <description>&lt;p&gt;论文“A study of the methods for evaluating machine generated images containing combinational creativity”获得Artificial Intelligence for Engineering Design, Analysis and Manufacturing （AIEDAM）期刊的接收&lt;/p&gt;
+      <description>&lt;br&gt;
+&lt;p&gt;论文“A study of the methods for evaluating machine generated images containing combinational creativity”获得Artificial Intelligence for Engineering Design, Analysis and Manufacturing （AIEDAM）期刊的接收&lt;/p&gt;
 </description>
     </item>
     
@@ -315,6 +316,36 @@
       <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/post/23-02-06/</guid>
       <description>&lt;p&gt;2023年2月：陈柳青老师于2月6日参加了上合组织青年科学家论坛，发表了“Data-driven Design Creativity Engine”的学术演讲&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A study of the methods for evaluating machine generated images containing combinational creativity</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-1/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-1/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Layout Generation for Various Scenarios in Mobile Shopping Applications</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>
@@ -464,6 +495,21 @@
     </item>
     
     <item>
+      <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
+      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+    <item>
       <title>WikiLink: An Encyclopedia-Based Semantic Network for Design Creativity</title>
       <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/journal-article-2/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
@@ -483,21 +529,6 @@ Supplementary notes can be added here, including [code and math](https://wowchem
       <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</link>
       <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-3/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
-    </item>
-    
-    <item>
-      <title>UI Layers Group Detector: Grouping UI Layers via Text Fusion and Box Attention</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</link>
-      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-4/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -679,36 +710,6 @@ Supplementary notes can be added here, including [code and math](https://wowchem
       <description>&lt;p&gt;实验室团建活动&lt;/p&gt;
 &lt;p&gt;2022年10月16日，周日，多云。正值秋高气爽，在陈老师的带领下，我们在杭州屏风山越野车营地进行了团建活动，这次也是两位软件学院的同学第一次从宁波来杭州与大部队相聚。上午十点钟，同学们分组打车到达屏风山越野车营地，大家上午玩了很刺激的越野摩托车，午饭的时候一起进行自助烧烤，下午玩了真人CS，回到营地后在营地里玩桌游、德州扑克、桌球、电玩等休闲娱乐的活动。&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A study of the methods for evaluating machine generated images containing combinational creativity</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-1/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-1/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
-    </item>
-    
-    <item>
-      <title>Layout Generation for Various Scenarios in Mobile Shopping Applications</title>
-      <link>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://tsangeyan.github.io/TED3Lab-zh.github.io/publication/conference-paper-2/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). --&gt;</description>
     </item>
     
     <item>
